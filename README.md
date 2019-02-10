@@ -2,12 +2,8 @@
 
 ## how to run
 
-Run the command:
+### Run the command:
 <pre><code>pip install requirments.txt
-</code></pre>
-
-Run the script:
-<pre><code>python upup.py
 </code></pre>
 
 You will then need to go into csgo and rebind some keys.
@@ -19,7 +15,11 @@ In csgo terminal run the following:
 bind p +jump
 </code></pre>
 
-Now if you have the scrpit running in the backgorund and you hit space you will auto hop.
+### Run the script:
+<pre><code>python upup.py
+</code></pre>
+
+#### Hit space and you should autohop
 
 The script will automatically disable when using 'y' or 'u' to communicate in chat. It will enable once you hit enter.
 This is just so when you hit 'u' or 'y' to type in all chat you dont spam p's every time you hit the space bar.
