@@ -12,7 +12,7 @@ Run the script:
 
 You will then need to go into csgo and rebind some keys.
 The way this script works is by using the space bar as a toggle and using the 'p' button to jump.
-i.e. hold space and trigger auto hop. script will then hit 'p' continuously.
+i.e. holding space will trigger auto hop and the script will then hit 'p' continuously making you jump.
 
 In csgo terminal run the following:
 <pre><code>unbind space
