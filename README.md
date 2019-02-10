@@ -16,7 +16,7 @@ i.e. hold space and trigger auto hop. script will then hit 'p' continuously.
 
 In csgo terminal run the following:
 <pre><code>unbind space
-bind p +jumo
+bind p +jump
 </code></pre>
 
 Now if you have the scrpit running in the backgorund and you hit space you will auto hop.
