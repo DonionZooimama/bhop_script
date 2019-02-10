@@ -21,8 +21,8 @@ bind p +jump
 
 Now if you have the scrpit running in the backgorund and you hit space you will auto hop.
 
-You can also disable and enable the script by hitting either 't' or enter i.e. '\n'
-this is just so when you hit 't' to typ in all chat you dont spam p's every time you
-hit space and once youre done you will hit enter and enable the script again.
+The script will automatically disable when using 'y' or 'u' to communicate in chat. It will enable once you hit enter.
+This is just so when you hit 'u' or 'y' to type in all chat you dont spam p's every time you hit the space bar.
+You can also use enter to toggle the script on and off if you dont want to use it at a certain point.
 
  ## Note this will not get you VAC banned but could get you overwatch banned so use at your own risk.
