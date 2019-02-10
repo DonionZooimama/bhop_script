@@ -3,4 +3,6 @@
 ## how to install and run
 
 run
-> pip install requirments.txt
+<pre><code>
+pip install requirments.txt
+</code></pre>
