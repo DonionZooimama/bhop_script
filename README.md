@@ -19,7 +19,7 @@ bind p +jump
 <pre><code>python upup.py
 </code></pre>
 
-#### Hit space and you should autohop
+#### Hold space and you will autohop
 
 The script will automatically disable when using 'y' or 'u' to communicate in chat. It will enable once you hit enter.
 This is just so when you hit 'u' or 'y' to type in all chat you dont spam p's every time you hit the space bar.
