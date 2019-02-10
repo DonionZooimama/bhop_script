@@ -1,4 +1,4 @@
-# CS:GO bhop ppscript
+# CS:GO bhop script
 
 ## how to run
 
